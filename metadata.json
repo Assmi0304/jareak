@@ -1,0 +1,6 @@
+{
+  "name": "Jareak",
+  "description": "A visual consistency journal that transforms daily efforts into memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
